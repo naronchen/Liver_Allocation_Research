@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test0>
+    <H>transplantCenterTest1.csv</H>
+    <SC>OPODirectoryTest1.csv</SC>
+    <Dis>distancesTest1.csv</Dis>
+    <AddSC>NewFile4.csv</AddSC>
+    <RunAlg>
+        <AlgTye0>MaxFlow</AlgType0>
+    </RunAlg>
+</Test0>
+
+
+
+
+
